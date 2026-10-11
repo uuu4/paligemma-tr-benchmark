@@ -1,0 +1,314 @@
+foto,cozunurluk,prompt,cikti,dogru_kismen_yanlis,turkce_karakter_ok,gercek_metin
+fis_01.jpg,224,ocr,"K.S.
+K.
+ENVER BABA GÜRME GIDA
+SAN.T.C. LTD.ŞTİ.
+: SARIGOL MAH.
+CUHHURİYET NEVŞEHİR
+16-17B
+GAZİOSMANPASA İSTANBUL
+G.O.PAŞA VD 3361143217
+TARİH
+: 01/09/2",,,
+fis_01.jpg,224,tr,"Bir mağazanın faturası, içinde bir numara ve para sayısı gösterilmektedir.",,,
+fis_01.jpg,224,en,"ENVER BABA GÜRME GIDA SAN.T.C. LTD.ŞTİ.
+: 01/09/2026
+ÇUKHURİYET HEVDANI 16 - 17B CAZIOSHANPASA İSTANBUL G.O.PAŞA VD 3361143217
+TARİH
+: 08:26:57
+: 01",,,
+fis_02.jpg,224,ocr,"EVA DONDURMA
+MERKEZ ŞARTALİ
+YILDIZTABYA MAHALLI YILDIZTABYA CD NO:58/B G.O.P/İSTANBUL G.O.P.VD.27173875682
+TEŞEKKÜRLER
+TEŞEKKÜRLER
+TARİH: 30-08-2026
+SAAT: 1",,,
+fis_02.jpg,224,tr,"evrakta ""eva dondurma"" yazıyor.",,,
+fis_02.jpg,224,en,eva dondurma,,,
+fis_03.jpg,224,ocr,"İBB İŞLETMELER MÜDÜRLÜĞÜ
+İSTANBUL İL BAŞKANLIĞI
+İSTANBUL İL BAŞKANLIĞI İBB İŞLETMELER MÜDÜRLÜĞÜ
+PERKEZ MAH. BAŞKANLIĞI 2444
+İBB İŞLETMELER MÜDÜRLÜĞÜ
+İBB İŞLETMELER MÜDÜRL",,,
+fis_03.jpg,224,tr,Birisi bir mağazanın faturasını tutuyor.,,,
+fis_03.jpg,224,en,"İBB İŞLETLERİLER MÜDÜRLÜĞÜ 02.01.2021 16:00-18:00
+PERKEZ HAKİ MANAVİTİ 02.01.2021 16:00-18:00
+İBB İŞLETLERİ MÜDÜRLÜĞÜ HÜKÜM'ÜN VE",,,
+fis_04.jpg,224,ocr,"KEOBS GIDA LTD STİ ALIBEYKOY PH 4. GÜL SK NO:9/1
+EYUPSULTAN/ISTANBUL
+5441396487
+GAZİOSMANPAŞA VD
+TARIH
+: 28/08/2026
+SAAT
+: 23:07:40
+F15 NO
+: 0075
+2,00",,,
+fis_04.jpg,224,tr,23.07.40 tarihinde bir restoranda bir fatura.,,,
+fis_04.jpg,224,en,"KEOBS GIDA LTD STİ ALIBEYKYOY PH 4. GÜL S.K NO:9/1
+EYUPSULTAN/ISTANBUL
+5441396487
+GAZİOSMANPAŞA VD
+TARIH
+: 28/08/2026
+SAAT
+: 23:07:40
+F15 NO
+: 0075
+2",,,
+fis_05.jpg,224,ocr,"AMIRKLI RESTORAN TEL: LTD ST1
+KOD: TAKERİ RESTORAN
+KUMUSSUYU MAH. OSMANLI SOK.
+K.B.C. 0542442424
+B.MIKELLEFLER V.D. BSN 0130098713 HERŞİS 0542442424/05420",,,
+fis_05.jpg,224,tr,"Bu, bir restoranda bir kişinin yemek faturası.",,,
+fis_05.jpg,224,en,"AMIRKLI RESTORAN TEL: LTD ST1
+KOD: TAKER RESTORAN
+KUMUSSUYU MAH. OSMANLI SOK.
+K. 14/14, 05423/05423
+B. MUKELLEFLER V. D. BSN 0130098713 HERSTE: 00130097130001",,,
+fis_06.jpg,224,ocr,"GREEN SALADS
+TARİH
+SATI NO
+TOPLAM
+KREDİ
+: 23/08/09/06
+: 28/06/26
+: 23/08/09/06
+: 28/06/26
+: 11/08/09/06
+: 11/08/09/06
+: ",,,
+fis_06.jpg,224,tr,Yeşil salata için bir fatura gösterilmektedir.,,,
+fis_06.jpg,224,en,GREEN SALADS,,,
+fis_07.jpg,224,ocr,"STARBUCKS COFFEE
+SHAYA KAVİNE SAN VE TİCA.A.S.
+T.11.045
+SEHIT METİN KAYA SK NO:11/172
+VIALAND AVİ
+05333313818
+BOAZIÇİ KURUMLAR V.D.
+TARİH
+: 23/08/2026
+SAAT
+: ",,,
+fis_07.jpg,224,tr,starbucks coffee faturası,,,
+fis_07.jpg,224,en,"STARBUCKS COFFEE SHAYA KAVVE SAN VE TICA.A.S. 0231 2140 101
+SEHIT METİN KAYA SK NO:11/172 VIALAND AV/H
+05333313818
+BOAZIÇİ KURUMLAR V.D.
+TARİH
+: 23/08/2026
+SAAT
+",,,
+kutu_01.jpg,224,ocr,"Sigara dumanında oluşan,
+araçlarının, fornuzların ve bisikletlerin kullanımı sırasında sigara içenlerin sağlığına zarar vermektedir.
+2021 EE Sigara İktisadi Birlik
+Marlboro
+Menthol 8mg",,,
+kutu_01.jpg,224,tr,""" sigara dumanında boynuzları, dişlerini, kornağını ve kalecğini kaybetmekten kaçının. "" marlboro sigara paketi.",,,
+kutu_01.jpg,224,en,"Sigara dumanında oluşan, sergilenmiş, formüle edil ve bildirimli olarak kontrol edilen tehlikeli maddedir.
+2021-121 Sigara içildiğinde bu kişiye bu tehlikeli madde etkisi olabilir.
+Marlboro
+Menthol 8mg",,,
+kutu_02.jpg,224,ocr,"Sigara içmek öldürür.
+Buzdolabında saklayın.",,,
+kutu_02.jpg,224,tr,""" sigara içmek öldürür"" yazan bir paket sigara.",,,
+kutu_02.jpg,224,en,"Sigara içmek öldürür.
+Buzlu içecekler
+Sigara içmek
+Sigara içmek öldürür.
+Buzlu içecekler",,,
+kutu_03.jpg,224,ocr,"Tütün dumanı, kansere yol açar. Bu, sigara içenlerle ilgili tehlikelidir.
+Buzdolabında saklayın.
+Buzdolabında saklayın.
+0 746 77 24 5
+Buzdolabında saklayın.
+746 77 24 5",,,
+kutu_03.jpg,224,tr,Yerde yatan bir kutunun arkası.,,,
+kutu_03.jpg,224,en,"Tütün dumanı, kansere yol açar. Bu, sigara içenlerle ilgili tehlikelidir.
+Buzdolabında saklayın.
+0 540 717 016",,,
+tabela_01.jpg,224,ocr,"SİÇARA İÇİLMEZ
+Buzdolabı içindeki içecekleri içmemesi yasaktır.
+Tüketicilere ve işletmecilere geçmeyen içeceklerara 4257 sayılı Kanun uyarınca idari para cezası uygulanır.
+Şuraya için:
+CEZASI:",,,
+tabela_01.jpg,224,tr,""" sigara içilmez "" yazan bir işaret var.",,,
+tabela_01.jpg,224,en,SİCARA İÇİLMEZ,,,
+fis_01.jpg,448,ocr,"12
+50
+ENVER BABA GURME GIDA
+SAN. TİC.LTD.ŞTİ.
+3002
+SARIGOL MAH.
+CUMHURİYET MEYDANI 16 -17B GAZİOSMANPAŞA İSTANBUL G.O. PAŞA VD 3361143217
+G.O. PAŞA
+TARİH
+: 01",,,
+fis_01.jpg,448,tr,"""enver baba gurme gida"" yazan bir fatura.",,,
+fis_01.jpg,448,en,"12
+50
+ENVER BABA GURME GIDA
+SAN.TİC.LTD.ŞTİ.
+30
+SARIGOL MAH.
+CUMHURİYET MEYDANI 16 -17B GAZİOSMANPAŞA İSTANBUL G.O. PAŞA VD 3361143217
+12
+TARİH
+: 01/09/202",,,
+fis_02.jpg,448,ocr,"EVA DONDURMA MERYEM SARIALİ
+YILDIZTABYA MAH YILDIZTABYA CD NO:58/B G.O.P/İSTANBUL G.O.P VD.27173079602
+TEŞEKKÜRLER
+TEŞEKKÜRLER
+TARİH: 30-08-2026
+SAAT: 12:37
+",,,
+fis_02.jpg,448,tr,reçete,,,
+fis_02.jpg,448,en,"EVA DONDURMA MERYEM SARIALİ
+YILDIZTABYA MAH YILDIZTABYA CD NO:58/B G.O.P/İSTANBUL G.O.P VD.27173079602
+TEŞEKKÜRLER
+TEŞEKKÜRLER
+TARİH: 30-08-2026
+SAAT: 12:37
+",,,
+fis_03.jpg,448,ocr,"İBB FŞLETMELER MÜDÜRLÜĞÜ ALTANGOTNIZ SOSYAL TESİSİ MERKEZ MAH. BAHARIYE CAD. HALIÇ TEKKE PARKİ İÇİ 16/7 EYUPSULIAN/İSTANBUL
+28/08/2026
+TARİH
+15:41:56
+SATI
+: 0086
+ETS NO
+%",,,
+fis_03.jpg,448,tr,reçete,,,
+fis_03.jpg,448,en,"İBB FŞLETMELER MÜDÜRLÜĞÜ ALTANGOTNIZ SOSYAL TESİSİ MERKEZ MAH. BAHARİYE CAD. HALIÇ TEKKE PARKİ İÇİ 16/7 EYUPSULIAN/İSTANBUL
+28/08/2026 15:41:56
+TARİH
+SATI
+: 0086
+TS NO
+",,,
+fis_04.jpg,448,ocr,"KEOBS GIDA LTD ŞTİ ALİBEYKÖY MH 4. GÜL SK NO: 9/1 EYÜPSULTAN/İSTANBUL
+5441396487
+GAZIOSMANPAŞA VD
+TARİH
+: 28/08/2026
+SAAT
+: 23:07:40
+FİŞ NO
+: 0075
+",,,
+fis_04.jpg,448,tr,keobs gida ltd sti alibeyköy mh 4. gul sk no: 9/1 eyupsultan/istanbul 5441396487 gaziosmanpaşa vd,,,
+fis_04.jpg,448,en,"KEOBS GIDA LTD ŞTİ ALİBEYKÖY MH 4. GÜL SK NO: 9/1 EYÜPSULTAN/İSTANBUL 5441396487
+GAZIOSMANPAŞA VD
+TARİH
+: 28/08/2026
+SAAT
+: 23:07:40
+FİŞ NO
+: 0075
+",,,
+fis_05.jpg,448,ocr,"ANADOLU RESTORAN
+ISL. LTD. Şİİ.
+Mcd TAKSİM MEVDAN
+GUMUŞUYU MAH.OSMANLI SOK.
+TAKSİM BEYOGLU, İSTANBUL
+B.MÜKELEFLER V.D. BSK 6130398713
+MERSIS: 061303987130031",,,
+fis_05.jpg,448,tr,Resimde bir restoranda bir menü ve bir fiş gösterilmektedir.,,,
+fis_05.jpg,448,en,"ANADOLU RESTORAN
+ISL. LTD. Şİİ.
+Mcd TAKŞİM MEVDAN
+GUMUSSUYU MAH. OSMANLI SOK.
+TAKSİM BEYOGLU, İSTANBUL
+B.MÜKELEFLER V.D. BSK 6130398713
+MERSIS: 0613039871300315",,,
+fis_06.jpg,448,ocr,"KÖŞÜK KİRAİYE
+YİYECEK
+KİRAİYE
+YİYECEK
+FİŞ NO
+TAHİH
+SAAT
+TOPLAM
+KREDİ
+HERSİ : 073606456500015
+SİT: YİSİLPINAR MAH. ŞEHİ METİN KAYA SOK VİALAND AVM NO: 1",,,
+fis_06.jpg,448,tr,green salads,,,
+fis_06.jpg,448,en,"Kredi Kredi
+Kredi Kredi
+Kredi Kredi
+Kredi Kredi
+Kredi Kredi
+Kredi Kredi
+Kredi Kredi
+Kredi Kredi
+Kredi Kredi
+Kredi Kredi
+Kredi Kredi
+Kredi Kredi
+Kredi Kredi
+Kredi Kredi
+Kredi Kredi
+Kredi Kredi
+Kredi Kredi
+Kredi Kredi
+Kredi Kredi
+Kredi Kredi
+",,,
+fis_07.jpg,448,ocr,"STARBUCKS. COFFEE SHAYA KAHVE SAN.VE TİC.A.Ş.
+Y.PINAR MH.
+SEHIT METIN KAYA SK.NO:11/172
+VIALAND AVM
+7690310116
+BOGAZİÇİ KURUMLAR VD.
+TARİH
+: 23/08/2026
+SAAT
+: 21:",,,
+fis_07.jpg,448,tr,starbucks kahve için bir fatura,,,
+fis_07.jpg,448,en,"STARBUCKS COFFEE SHAYA KAHVE SAN.VE TİCA.Ş. Y.PINAR MH.
+SEHIT METIN KAYA SK.NO:11/172 VIALAND AVM
+7690310116
+BOGAZİÇİ KURUMLAR VD.
+TARİH
+: 23/08/2026
+SAAT
+: 21:23:25",,,
+kutu_01.jpg,448,ocr,"Sigara dumanında benzen, nitrozamin, formaldehit ve hidrojensiyanit gibi kanser yapıcı maddeler bulunur.
+ALO 171 Sigara Bırakma Danışma Hattı
+Marlboro
+Touch Blue",,,
+kutu_01.jpg,448,tr,"marlboro touch blue sigara dumanında benzen, nitrozamin, formaldehit ve hidrojenlenmiş gıda tanısır yapıcı maddeler bulunur.",,,
+kutu_01.jpg,448,en,"Sigara dumanında benzen, nitrozamin, formaldehit ve hidrojenasyona gibi kanser yapıcı maddeler bulunur.
+ALO 171 Sigara Bırakma Danışma Hattı
+Marlboro
+Touch Blue",,,
+kutu_02.jpg,448,ocr,"Premium
+Sigara içmek öldürür -
+hemen bırakın
+MARLboro
+12",,,
+kutu_02.jpg,448,tr,"""sigara içmek öldürür- hemen bırakın"" yazan bir uyarı.",,,
+kutu_02.jpg,448,en,"Premium
+Sigara içmek öldürür-
+hemen bırakın
+MARLboro
+12",,,
+kutu_03.jpg,448,ocr,"Tütün dumanı, kansere yol açar. Bilinen 70 adet fazla madde içerir
+86935241",,,
+kutu_03.jpg,448,tr,"""tütün dumanı, kansere yol açar. bilinen 70 adet fazla madde içerir.""",,,
+kutu_03.jpg,448,en,"Tütün dumanı, kansere yol açar. Bilinen 70 adet fazla madde içerir
+86935241",,,
+tabela_01.jpg,448,ocr,"SİGARA İÇİLMEZ
+Burada bütün ürünleri tüketilmesi yasaktır. Tüketenlere ve tüketilmesine göz yuman sorumlulara 4207 sayılı Kanun uyarınca idari para cezası uygulanır.
+Şikayet için:
+CEZASI:",,,
+tabela_01.jpg,448,tr,""" sigara içilmez"" yazan bir işaret.",,,
+tabela_01.jpg,448,en,"SİGARA İÇİLMEZ
+Burada bütün ürünleri tüketilmesi yasaktır. Tüketenlere ve tüketilmesine göz yuman sorumlulara 4207 sayılı Kanun uyarınca idari para cezası uygulanır.
+Şikayet için:
+CEZASI:",,,
